@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 </div>
 
-![Frame-7](https://github.com/user-attachments/assets/1da19ee0-09ba-4a53-a2e7-05317c67e8b5)
+![Untitled (Medium Banner (US) (Landscape))](https://github.com/user-attachments/assets/81576b9c-7bcc-4c34-80ca-8df7508f5115)
 
 <!-- H1 Without Bottom Border -->
 <h1 align="center">🌌 Hello Guys! We Are Quantum Projects! 🌌</h1>
