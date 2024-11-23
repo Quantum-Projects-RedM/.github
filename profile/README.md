@@ -29,17 +29,17 @@
 
 <!-- Stats Section -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=artmines&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Quantum-Projects-RedM&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=artmines&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Quantum-Projects-RedM&show_icons=true&locale=en" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=artmines" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Quantum-Projects-RedM" alt="GitHub Streak" />
 </div>
 
 <!-- Trophy Section -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Artmines" alt="trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Quantum-Projects-RedM" alt="trophy">
   </a>
 </div>
 
